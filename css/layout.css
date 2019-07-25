@@ -1,0 +1,13 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px 20px;
+    padding: 10px 20px;
+}
+
+/* SECTION */
+ul {
+    list-style-position: inside;
+}
+.hide {
+    display: none;
+}
